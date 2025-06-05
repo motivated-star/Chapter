@@ -76,8 +76,8 @@ ADMIN_API_KEY=your_admin_api_key_here
 ## 🔑 Setup Instruction
 
 # Clone the repo
-git clone https://github.com/your-username/chapter-dashboard-api.git
-cd chapter-dashboard-api
+git clone [https://github.com/your-username/chapter-dashboard-api.git](https://github.com/motivated-star/Chapter.git)
+cd chapter
 
 # Install dependencies
 npm install
